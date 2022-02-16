@@ -4,6 +4,6 @@ En la imagen siguiente se muestran los pasos para poder activar el entorno virtu
 
 ``py -m venv env``
 
-![](../images/kata-modulo02.png)
+![](https://github.com/IsaacIsaias/CursoIntroPython/blob/main/images/kata-modulo02.png)
 
 Para desactivar el entorno virtual, simplemente se escribe `deactivate` en la consola.

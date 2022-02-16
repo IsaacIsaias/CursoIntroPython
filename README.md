@@ -12,6 +12,6 @@ ___
 
 Las 10 katas se encuentran resueltas en la carpeta [Katas Resueltas](https://github.com/IsaacIsaias/CursoIntroPython/tree/main/Katas%20Resueltas).
 
-Los recursos en inglés se pueden obtener en [Python for Begineers](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) de MSLearn.
+Los recursos en inglés se pueden obtener en [Python for Beginners](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) de MSLearn.
 
 Katas resolved by [Isaac Isaías 🏎️](https://github.com/IsaacIsaias)
